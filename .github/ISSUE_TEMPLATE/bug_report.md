@@ -1,5 +1,5 @@
 ---
-name: 反馈
+name: 问题反馈
 about: Create a report to help us improve
 title: ''
 labels: ''
